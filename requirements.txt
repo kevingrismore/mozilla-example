@@ -1,0 +1,3 @@
+prefect==2.14.12
+prefect-gcp
+prefect-dbt[bigquery]
