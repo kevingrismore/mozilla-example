@@ -3,7 +3,7 @@ name: Deploy Prefect flow
 on:
   push:
     branches:
-      - with-yaml-prefect-actions
+      - main
 
 jobs:
   deploy:
