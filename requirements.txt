@@ -1,4 +1,4 @@
-prefect==2.14.12
+prefect==2.14.16
 prefect-gcp
 prefect-dbt[bigquery]
 faker
